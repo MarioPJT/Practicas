@@ -38,7 +38,7 @@ public class PantallaModerna {
         boton.setBorder(BorderFactory.createEmptyBorder(10, 25, 10, 25));
 
         boton.addActionListener(e ->
-                JOptionPane.showMessageDialog(ventana, "🚀 Botón presionado")
+                JOptionPane.showMessageDialog(ventana, "🚀 Botón ")
         );
 
         panel.add(boton);
